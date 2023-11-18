@@ -13,9 +13,8 @@ Image Name
 ## Technologies Used
 
 - Vite
-- Bootstrap
-- Tailwind
-- TypeScript
+- React
+- Sass
 
 ## Local Installation
 
